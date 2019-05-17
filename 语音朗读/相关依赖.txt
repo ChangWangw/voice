@@ -1,0 +1,7 @@
+<dependency>
+            <groupId>net.sf.jacob-project</groupId>
+            <artifactId>jacob</artifactId>
+            <version>1.14.3</version>
+        </dependency>
+
+dll文件放置到windows/system下和jdk/lib下
